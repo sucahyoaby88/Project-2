@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: #fff;
+}
+
+.users{
+    color: #000;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+table{
+    width: 100%;
+    background: #fff ;
+    text-align: center;
+}
